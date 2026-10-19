@@ -3,3 +3,8 @@ org.libreoffice.LibreOffice
 com.github.johnfactotum.Foliate
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.qgis.qgis
+org.gnome.Maps
+org.zotero.Zotero

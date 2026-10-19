@@ -24,3 +24,9 @@ The `green-thumb.svg` wallpaper is original. Green Thumb OS is an independent Ub
 
 See [FEATURES.md](FEATURES.md) for three local tools included for gardening.
 
+
+The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, Zotero**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, Zotero**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, Zotero**. See [FEATURES.md](FEATURES.md).
