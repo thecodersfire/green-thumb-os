@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+mkdir -p "$HOME/Documents/green-thumb-os-session-plans"
+file="$HOME/Documents/green-thumb-os-session-plans/plan-$(date +%Y%m%d-%H%M%S).md"
+{
+ printf '# green-thumb-os session plan\n\n'
+ printf 'Created: %s\n\n' "$(date -Is)"
+ printf 'Purpose: gardening\n\n## Prompts\n'
+ printf '%s\n' '- Which area or observation is in scope?' '- What data layers or equipment are needed?' '- What location privacy checks apply?'
+ printf '\n## Notes\n'
+} > "$file"
+nano "$file"
+printf 'Saved locally: %s\n' "$file"
